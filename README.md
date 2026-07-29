@@ -3,10 +3,11 @@
 <h1>Hi there, I'm Mehak! ☕🦉</h1>
 
 *You'll usually find me fueled by late-night coffee, pushing 2 AM GitHub commits, and obsessing over backend architectures.* 
-
+I'm a final-year Information Technology undergrad at IGDTUW who believes in writing code that solves real-world problems. My sweet spot? **Java and Spring Boot**. Whether I'm optimizing database queries, or integrating NLP models, I'm deeply passionate about building scalable, impactful projects.
 </div>
 
-I'm a final-year Information Technology undergrad at IGDTUW who believes in writing code that solves real-world problems. My sweet spot? **Java and Spring Boot**. Whether I'm optimizing database queries, or integrating NLP models, I'm deeply passionate about building scalable, impactful projects.
+---
+
 
 ## 🛠️ My Tech Stack
 
@@ -22,7 +23,7 @@ I'm a final-year Information Technology undergrad at IGDTUW who believes in writ
   <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,postman,scikitlearn,flutter,dart&perline=10" />
 </a>
 
-## 🚀 Projects I'm Proud Of
+## 🚀 My Favorite Projects
 * **CopyPaste Vault**: Engineered a secure cloud clipboard platform. Built a robust Java/Spring Boot backend with Redis and WebSockets for real-time, low-latency synchronization across connected clients.
 * **ScamLens Bharat**: An AI-driven scam detection Chrome extension that analyzes text, URLs, images (OCR), and audio to flag phishing attempts. (Top 5 Finalist at Cloudflare x CyberPeace Hackathon!)
 * **Lifeflow**: A cross-platform Flutter application designed to bridge the gap between blood donors and recipients with a dynamic, real-time searchable database.
@@ -37,4 +38,6 @@ I'm a final-year Information Technology undergrad at IGDTUW who believes in writ
 * ⭐ **4-Star** Coder on HackerRank
 
 ---
-*Always down to talk about Java backend development, system architecture, or your favorite 2 AM coding playlist. Let's connect!*
+<div align="center">
+*Always down to talk about Java backend development, Machine Learning, or your favorite 2 AM coding playlist. Let's connect!*
+</div>
