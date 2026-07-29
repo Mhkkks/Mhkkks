@@ -1,15 +1,30 @@
-# Hi there, I'm Mehak! ☕🦉
+<div align="center">
+
+<h1>Hi there, I'm Mehak! ☕🦉</h1>
 
 *You'll usually find me fueled by late-night coffee, pushing 2 AM GitHub commits, and obsessing over backend architectures.* 
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,redis,firebase&perline=10" />
+</a>
+
+</div>
 
 I'm a final-year Information Technology undergrad at IGDTUW who believes in writing code that solves real-world problems. My sweet spot? **Java and Spring Boot**. Whether I'm optimizing database queries, or integrating NLP models, I'm deeply passionate about building scalable, impactful projects.
 
 ## 🛠️ My Tech Stack
-* **The Core:** Java (Primary love ☕), Python, C++
-* **Backend & Architecture:** Spring Boot, REST APIs, Microservices, WebSockets, JWT
-* **Databases & Caching:** MySQL, Redis, Firestore
-* **AI/ML:** NLP, TF-IDF, Scikit-learn, Cloudflare Workers AI
-* **Tools & Deployment:** Docker, GitHub Actions, AWS (IAM, S3, EC2), Postman
+
+**The Core & Backend Architecture**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,redis,firebase&perline=10" />
+</a>
+
+**Tools, AI & Deployment**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,postman,scikitlearn,flutter,dart&perline=10" />
+</a>
 
 ## 🚀 Projects I'm Proud Of
 * **CopyPaste Vault**: Engineered a secure cloud clipboard platform. Built a robust Java/Spring Boot backend with Redis and WebSockets for real-time, low-latency synchronization across connected clients.
