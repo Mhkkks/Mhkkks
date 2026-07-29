@@ -3,7 +3,9 @@
 <h1>Hi there, I'm Mehak!</h1>
 
 *You'll usually find me fueled by late-night coffee, pushing 2 AM GitHub commits, and obsessing over backend architectures.* 
-I'm a final-year Information Technology undergrad at IGDTUW who believes in writing code that solves real-world problems. My sweet spot? **Java and Spring Boot**. Whether I'm optimizing database queries, or integrating NLP models, I'm deeply passionate about building scalable, impactful projects.
+<br>
+I'm a final-year Information Technology undergrad at IGDTUW who believes in writing code that solves real-world problems.<br>
+My sweet spot? **Java and Spring Boot**. Whether I'm optimizing database queries, or integrating NLP models, I'm deeply passionate about building scalable, impactful projects.
 </div>
 
 ---
