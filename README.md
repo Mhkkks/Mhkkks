@@ -4,10 +4,6 @@
 
 *You'll usually find me fueled by late-night coffee, pushing 2 AM GitHub commits, and obsessing over backend architectures.* 
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,redis,firebase&perline=10" />
-</a>
-
 </div>
 
 I'm a final-year Information Technology undergrad at IGDTUW who believes in writing code that solves real-world problems. My sweet spot? **Java and Spring Boot**. Whether I'm optimizing database queries, or integrating NLP models, I'm deeply passionate about building scalable, impactful projects.
