@@ -27,6 +27,7 @@ My sweet spot? **Java and Spring Boot**. Whether I'm optimizing database queries
 
 ## 🚀 My Favorite Projects
 * **CopyPaste Vault**: Engineered a secure cloud clipboard platform. Built a robust Java/Spring Boot backend with Redis and WebSockets for real-time, low-latency synchronization across connected clients.
+* http://copypastevault.zplusranking.com/
 * **ScamLens Bharat**: An AI-driven scam detection Chrome extension that analyzes text, URLs, images (OCR), and audio to flag phishing attempts. (Top 5 Finalist at Cloudflare x CyberPeace Hackathon!)
 * **Lifeflow**: A cross-platform Flutter application designed to bridge the gap between blood donors and recipients with a dynamic, real-time searchable database.
 
