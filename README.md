@@ -2,10 +2,9 @@
 
 <h1>Hi there!</h1>
 
-*You'll usually find me fueled by late-night coffee, pushing 2 AM GitHub commits, and obsessing over backend architectures.* 
-<br>
 I'm a final-year Information Technology undergrad at IGDTUW who believes in writing code that solves real-world problems.<br>
-My sweet spot? **Java and Spring Boot**. Whether I'm optimizing database queries, or integrating NLP models, I'm deeply passionate about building scalable, impactful projects.
+My sweet spot? **Java and Spring Boot**. Whether I'm optimizing database queries, or integrating NLP models, I'm deeply passionate about building scalable, impactful projects.<br>
+*You'll usually find me fueled by late-night coffee, pushing 2 AM GitHub commits, and obsessing over backend architectures.* 
 </div>
 
 ---
