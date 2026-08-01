@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there, I'm Mehak!</h1>
+<h1>Hi there!</h1>
 
 *You'll usually find me fueled by late-night coffee, pushing 2 AM GitHub commits, and obsessing over backend architectures.* 
 <br>
