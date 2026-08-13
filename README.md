@@ -15,7 +15,7 @@ My sweet spot? **Java and Spring Boot**. Whether I'm optimizing database queries
 **The Core & Backend Architecture**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,redis,firebase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,redis,firebase&perline=10" />
 </a>
 
 **Tools, AI & Deployment**
